@@ -4,4 +4,5 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 .env
-.DS_Storefinal_ptoject.pdf
+.DS_Store
+final_ptoject.pdf
